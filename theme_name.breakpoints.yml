@@ -1,0 +1,41 @@
+theme_name.s:
+  label: Phone
+  mediaQuery: ''
+  weight: 0
+  multipliers:
+    - 1x
+theme_name.sm:
+  label: Phone XL
+  mediaQuery: '(min-width: 640px)'
+  weight: 0
+  multipliers:
+    - 1x
+    - 2x
+theme_name.md:
+  label: Tablet
+  mediaQuery: '(min-width: 768px)'
+  weight: 1
+  multipliers:
+    - 1x
+    - 2x
+theme_name.lg:
+  label: Tablet Xl
+  mediaQuery: '(min-width: 1024px)'
+  weight: 1
+  multipliers:
+    - 1x
+    - 2x
+theme_name.xl:
+  label: Desktop
+  mediaQuery: '(min-width: 1280px)'
+  weight: 1
+  multipliers:
+    - 1x
+    - 2x
+theme_name.2xl:
+  label: Desktop XL
+  mediaQuery: '(min-width: 1536px)'
+  weight: 1
+  multipliers:
+    - 1x
+    - 2x
